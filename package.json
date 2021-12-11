@@ -1,5 +1,6 @@
 {
   "name": "countdownchamp",
+  "homepage": "https://blackgirlbytes.github.io/countdown-champ/"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
