@@ -1,0 +1,13 @@
+{
+  "main.css": "/countdown-champ/static/css/main.7ec8a306.chunk.css",
+  "main.js": "/countdown-champ/static/js/main.7ac5b233.chunk.js",
+  "main.js.map": "/countdown-champ/static/js/main.7ac5b233.chunk.js.map",
+  "static/js/1.d0ed89b3.chunk.js": "/countdown-champ/static/js/1.d0ed89b3.chunk.js",
+  "static/js/1.d0ed89b3.chunk.js.map": "/countdown-champ/static/js/1.d0ed89b3.chunk.js.map",
+  "runtime~main.js": "/countdown-champ/static/js/runtime~main.4c759890.js",
+  "runtime~main.js.map": "/countdown-champ/static/js/runtime~main.4c759890.js.map",
+  "static/css/main.7ec8a306.chunk.css.map": "/countdown-champ/static/css/main.7ec8a306.chunk.css.map",
+  "index.html": "/countdown-champ/index.html",
+  "precache-manifest.b8667bfe3cc6654c43453e005e310e9f.js": "/countdown-champ/precache-manifest.b8667bfe3cc6654c43453e005e310e9f.js",
+  "service-worker.js": "/countdown-champ/service-worker.js"
+}
